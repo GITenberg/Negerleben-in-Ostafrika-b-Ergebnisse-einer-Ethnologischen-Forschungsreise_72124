@@ -1,0 +1,33 @@
+_repo: Negerleben-in-Ostafrika-b-Ergebnisse-einer-Ethnologischen-Forschungsreise_72124
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Weule, Karl
+    alias: Weule, K. (Karl)
+    birthdate: 1864
+    deathdate: 1926
+    gutenberg_agent_id: '48566'
+    url: http://www.gutenberg.org/2009/agents/48566
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Karl_Weule
+    - https://de.wikipedia.org/wiki/Karl_Weule
+description: ''
+gutenberg_issued: '2023-11-14'
+identifiers:
+  gutenberg: '72124'
+language: de
+pgterms:marc904: https://archive.org/details/negerlebenostafr00weul
+pgterms:marc905: 20171204105103weule
+pgterms:marc906: '1909'
+pgterms:marc907: de
+production_note: Peter Becker, Jude Eylander, Reiner Ruf, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aLeipzig :$bF. A. Brockhaus, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Negerleben in Ostafrika : $b Ergebnisse einer Ethnologischen Forschungsreise'
+url: http://www.gutenberg.org/ebooks/72124
