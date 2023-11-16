@@ -1,5 +1,8 @@
 _repo: Negerleben-in-Ostafrika-b-Ergebnisse-einer-Ethnologischen-Forschungsreise_72124
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72124-h/images/backcover.jpg
 creator:
   author:
     agent_name: Weule, Karl
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Karl_Weule
     - https://de.wikipedia.org/wiki/Karl_Weule
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72124#Negerleben-in-Ostafrika-b-Ergebnisse-einer-Ethnologischen-Forschungsreise
 gutenberg_issued: '2023-11-14'
 identifiers:
   gutenberg: '72124'
